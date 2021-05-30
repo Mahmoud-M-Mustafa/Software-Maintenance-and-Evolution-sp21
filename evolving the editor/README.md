@@ -1,11 +1,11 @@
 # Anubis IDE
-It's an **open source** IDE code Created by **Graduation Project** Team at Faculty of **Engineering** **Ain-Shams** Univeristy .  
+This project is an evolution to the Anubis ide which is an **open source** IDE code Created by **Graduation Project** Team at Faculty of **Engineering** **Ain-Shams** Univeristy .  
 
 (![Anubis](https://www13.0zz0.com/2020/07/22/02/845694578.png))
 
 # Objective
 - This is a simple IDE which will allow you to perform some basic functionalities, created by Anubis Graduation project team in faculty of engineering Ainshams university, supervisor (Professor: **Ayman Bahaa**) 
-- The goal of the Anubis IDE was to provide a simple environment to write, edit, compile, and run micropython codes. but It's now an open-source editor which you can freely access and develop.
+- The goal of the Anubis IDE was to provide a simple environment to write, edit, compile, and run micropython and c_sharp codes. but It's now an open-source editor which you can freely access and develop.
 - We developed Anubis IDE using PYQT5 .
 - PyQt5 is a library that lets you use the Qt GUI framework from Python. Qt itself is written in C++. By using it from Python, you can build applications much more quickly while not sacrificing much of the speed of C++.
 
@@ -33,4 +33,10 @@ If python3 is the default use this:
 
 ## Welcome
 
-(![Welcome](https://www4.0zz0.com/2020/07/22/02/133570716.png))
+(![Welcome](https://www14.0zz0.com/2021/05/30/20/602493289.jpg))
+
+## Python Example
+https://www14.0zz0.com/2021/05/30/20/545496116.jpg
+
+## C# Example
+https://www14.0zz0.com/2021/05/30/20/298188349.jpg

@@ -1,7 +1,7 @@
 # Anubis IDE
-This project is an evolution to the Anubis ide which is an **open source** IDE code Created by **Graduation Project** Team at Faculty of **Engineering** **Ain-Shams** Univeristy .  
+**This project is an evolution to the Anubis ide which is an ** open source IDE code Created by **Graduation Project** Team at Faculty of **Engineering** **Ain-Shams** Univeristy .  
 
-(![Anubis](https://www13.0zz0.com/2020/07/22/02/845694578.png))
+![Anubis](https://www13.0zz0.com/2020/07/22/02/845694578.png)
 
 # Objective
 - This is a simple IDE which will allow you to perform some basic functionalities, created by Anubis Graduation project team in faculty of engineering Ainshams university, supervisor (Professor: **Ayman Bahaa**) 
@@ -33,10 +33,10 @@ If python3 is the default use this:
 
 ## Welcome
 
-(![Welcome](https://www14.0zz0.com/2021/05/30/20/602493289.jpg))
+![Welcome](https://www14.0zz0.com/2021/05/30/20/602493289.jpg)
 
 ## Python Example
-(![Python Example](https://www14.0zz0.com/2021/05/30/20/545496116.jpg))
+![Python Example](https://www14.0zz0.com/2021/05/30/20/545496116.jpg)
 
 ## C# Example
-(![C# Example](https://www14.0zz0.com/2021/05/30/20/298188349.jpg))
+![C# Example](https://www14.0zz0.com/2021/05/30/20/298188349.jpg)

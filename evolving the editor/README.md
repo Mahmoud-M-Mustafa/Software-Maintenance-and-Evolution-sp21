@@ -1,5 +1,5 @@
 # Anubis IDE
-**This project is an evolution to the Anubis ide which is an ** open source IDE code Created by **Graduation Project** Team at Faculty of **Engineering** **Ain-Shams** Univeristy .  
+**This project is an evolution to the Anubis ide which is an** open source IDE code Created by **Graduation Project** Team at Faculty of **Engineering** **Ain-Shams** Univeristy .  
 
 ![Anubis](https://www13.0zz0.com/2020/07/22/02/845694578.png)
 

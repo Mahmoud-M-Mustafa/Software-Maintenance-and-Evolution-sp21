@@ -36,7 +36,7 @@ If python3 is the default use this:
 (![Welcome](https://www14.0zz0.com/2021/05/30/20/602493289.jpg))
 
 ## Python Example
-(!(https://www14.0zz0.com/2021/05/30/20/545496116.jpg))
+(![Python Example](https://www14.0zz0.com/2021/05/30/20/545496116.jpg))
 
 ## C# Example
-(!(https://www14.0zz0.com/2021/05/30/20/298188349.jpg))
+(![C# Example](https://www14.0zz0.com/2021/05/30/20/298188349.jpg))
